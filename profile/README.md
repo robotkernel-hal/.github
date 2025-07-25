@@ -2,6 +2,9 @@
 
 This is the official source code of the robotkernel.
 
+The robotKernel is a modular, real-time software framework developed at the [Institute of Robotics and Mechatronics of the German Aerospace Center (DLR)](https://www.dlr.de/rm) to control some of the world’s most advanced robotic systems. Designed to meet the strict timing and safety requirements of complex mechatronic platforms, it enables seamless integration of sensors, actuators, control algorithms, and high-level behaviors.
+
+With its modularized architecture and hard real-time capabilities, the robotKernel powers everything from space-grade manipulators to humanoid robots with tactile precision. Its flexible and extensible design makes it a powerful foundation for research, development, and deployment in robotics and autonomous systems.
 
 <!--
 
